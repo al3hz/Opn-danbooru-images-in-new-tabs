@@ -1,5 +1,5 @@
 
-# Script: Abrir imágenes de Danbooru con Estilo
+# Script: Abrir imágenes de Danbooru
 
 ## Descripción / Description
 
